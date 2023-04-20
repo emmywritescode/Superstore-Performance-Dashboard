@@ -58,4 +58,4 @@ Two dashboards were created to gain insight into the store's performance in term
 - The fourth quarter of every year is always a time of high revenue and profit generation for the store.
 
 ## Recommendations
-Further analysis should be carried out to determine what made the fourth quarter of every year so profitable and see how the same can be replicated all year long. Additionally, a deep dive into products in the Tables, Bookcases and Supplies subcategories should be explored to determine what makes these products unprofitable. A decision may need to be made to drop these products while leveraging products in the Technology category to generate maximum profit for the store..
+Further analysis should be carried out to determine what made the fourth quarter of every year so profitable and see how the same can be replicated all year long. Additionally, a deep dive into products in the Tables, Bookcases and Supplies subcategories should be explored to determine what makes these products unprofitable. A decision may need to be made to drop these products while leveraging products in the Technology category to generate maximum profit for the store.
