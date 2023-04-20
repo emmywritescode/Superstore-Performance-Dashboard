@@ -50,7 +50,7 @@ Two dashboards were created to gain insight into the store's performance in term
 - The store generated just over $260K in profit which represents a low profit margin of 12.4% over the period.
 - Most of the store's profit came from states in the east and west region and New York was the most profitable state at $68K.
 - Sales Person 'Anna Andreadi' made the most profit at over $88K at least $2K more than any other sales person.
-- While Copiers and Phones were the most profitable product subcategories at more than $40K, Tables as well as Bookcases and Supplies made huge losses.
+- While Copiers and Phones were the most profitable product subcategories each more than $40K, Tables as well as Bookcases and Supplies made huge losses.
 
 ## Conclusion
 - The Order Completion Rate stands above 90% each year.
@@ -58,4 +58,5 @@ Two dashboards were created to gain insight into the store's performance in term
 - The fourth quarter of every year is always a time of high revenue and profit generation for the store.
 
 ## Recommendations
-Further analysis should be carried out to determine what made the fourth quarter of every year so profitable and see how the same can be replicated all year long. Additionally, a deep dive into products in the Tables, Bookcases and Supplies subcategories should be explored to determine what makes these products unprofitable. A decision may need to be made to drop these products while leveraging products in the Technology category to generate maximum profit for the store.
+Further analysis should be carried out to determine what made the fourth quarter of every year so profitable and see how the same can be replicated all year long. Additionally, a deep dive into products in the Tables, Bookcases and Supplies subcategories should be explored to determine what made these products unprofitable. Management may need to make a decision to drop these products while leveraging products in the Technology category to generate maximum profit for the store.
+
