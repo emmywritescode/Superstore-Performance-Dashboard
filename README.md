@@ -1,1 +1,2 @@
-# Superstore-Performance-Dashboard
+# Superstore Performance Dashboard
+![](store.jpg)
