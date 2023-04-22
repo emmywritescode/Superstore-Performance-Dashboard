@@ -14,7 +14,7 @@ To identify:
 The following Microsoft Excel skills were incorporated into this project:
 - Data transformation using Power Query Editor.
 - Data modelling using Power Pivot
-- Knowledge of Data Analysis eXpressions (DAX). The CALCULATE, SUM & DIVIDE functions were used.
+- Knowledge of Data Analysis eXpressions (DAX). The CALCULATE, SUM, FORMAT & DIVIDE functions were used.
 - Building Pivot Tables and Pivot Charts.
 - Connecting Slicers with reports.
 - Recording and assigning macros for interactivity.
