@@ -23,7 +23,7 @@ The following Microsoft Excel skills were incorporated into this project:
 The Superstore dataset is ubiquitous, however the one used here was obtained from [Data.World](https://data.world/missdataviz/superstore-2021).
 
 ## Data transformation
-The dataset was transformed using the Power Query Editor feature on Microsoft Excel. Multiple sheets in the dataset were first merged together and one duplicate row was found and removed after redundant columns were expunged. The merged dataset was divided into four distinct tables and proper relationships were established between these tables through keys.
+The dataset was transformed using the Power Query Editor feature on Microsoft Excel. Multiple sheets in the dataset were first merged together, and one duplicate row was found and removed after redundant columns were expunged. The merged dataset was divided into four distinct tables and proper relationships were established between these tables through keys.
 
 ## Data modelling
 The model is a star schema. There are three (3) dimension tables named Products, Geography and Customers and one (1) fact table named Orders. The dimension tables are all joined to the fact table in a one-to-many relationship. Additionally, a Calendar table (dimension table) was created in the Power Pivot window.
